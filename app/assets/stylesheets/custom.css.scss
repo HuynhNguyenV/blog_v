@@ -19,6 +19,9 @@ $navbar-default-bg: black;
 
 .center {
   text-align: center;
+}
+
+.jumbotron {
   background-image: asset-url('meteora.jpg');
   background-size: cover;
   height: 550px;
@@ -41,6 +44,15 @@ $navbar-default-bg: black;
 .btn-xlarge:hover {
   background-color: #042d0b;
   color: #fff;
+}
+
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.description {
+  margin-top: 0;
 }
 
 .footer {
