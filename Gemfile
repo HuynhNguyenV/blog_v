@@ -14,6 +14,7 @@ gem 'rails-controller-testing'
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '~> 3.4.1'
+gem 'autoprefixer-rails'
 gem 'jquery-rails'
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
